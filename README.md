@@ -1,48 +1,27 @@
- 📊 Supply Chain Analytics Dashboard
-🔍 Project Overview
+ ## 📊 Supply Chain Analytics Dashboard
 
-Designed a Supply Chain Analytics Dashboard to analyze and visualize key supply chain metrics.
+### 🔍 Project Overview
+- Designed a **Supply Chain Analytics Dashboard** to analyze and visualize key supply chain metrics.
+- Monitored **production volume, manufacturing cost, product efficiency, defect rates, and lead times**.
+- Enabled **data-driven decision-making** by identifying inefficiencies, quality issues, and performance gaps across the supply chain.
 
-Monitored production volume, manufacturing cost, product efficiency, defect rates, and lead times.
+### 🎯 Problem Statement
+- Lack of visibility into production efficiency.
+- High defect rates and quality issues.
+- Inefficient supplier performance.
+- Delays in manufacturing and logistics.
 
-Enabled data-driven decision-making by identifying inefficiencies, quality issues, and performance gaps across the supply chain.
+### 🧩 Key Features
+- 📈 Production volume and efficiency analysis.
+- 🏭 Manufacturing cost and lead time tracking.
+- ✅ Quality control and defect rate monitoring.
+- 🤝 Supplier performance comparison.
+- 📦 Inventory and logistics insights.
+- 🎛️ Interactive filters (location, product type, inspection results).
 
-🎯 Problem Statement
+### 🛠️ Tools & Technologies Used
+- **Power BI** – Dashboard creation and data visualization.
+- **Excel / CSV** – Data cleaning and preprocessing.
+- **Data Analysis Techniques** – KPI calculation and trend analysis.
+- **GitHub** – Version control and project hosting.
 
-Lack of visibility into production efficiency.
-
-High defect rates and quality issues.
-
-Inefficient supplier performance.
-
-Delays in manufacturing and logistics.
-
-🧩 Key Features
-
-📈 Production volume and efficiency analysis.
-
-🏭 Manufacturing cost and lead time tracking.
-
-✅ Quality control and defect rate monitoring.
-
-🤝 Supplier performance comparison.
-
-📦 Inventory and logistics insights.
-
-🎛️ Interactive filters:
-
-Location
-
-Product type
-
-Inspection results
-
-🛠️ Tools & Technologies Used
-
-Power BI – Dashboard creation and data visualization.
-
-Excel / CSV – Data cleaning and preprocessing.
-
-Data Analysis Techniques – KPI calculation and trend analysis.
-
-GitHub – Version control and project hosting.
