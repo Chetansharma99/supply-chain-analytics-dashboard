@@ -25,3 +25,16 @@
 - **Data Analysis Techniques** – KPI calculation and trend analysis.
 - **GitHub** – Version control and project hosting.
 
+## 📊 Dashboard Screenshots
+
+### 📦 Inventory & Logistics
+![Inventory & Logistics](dashboard-images/inventory_and_logistics.png)
+
+### 🏭 Manufacturing & Quality Control
+![Manufacturing & QC](dashboard-images/manufacture_and_qc.png)
+
+### 🛒 Sales & Customers
+![Sales & Customers](dashboard-images/sales_and_customer.png)
+
+### 🔍 Supply & Quality Control
+![Supply & QC](dashboard-images/supply_and_qc.png)
